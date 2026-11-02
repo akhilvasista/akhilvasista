@@ -89,7 +89,7 @@ A modern web application focused on real estate messaging workflows.
 | Backend | Node.js & TypeScript |
 | Architecture | Microservices & Event-Driven Systems |
 | Messaging | Redis, BullMQ & RabbitMQ |
-| Cloud | AWS & Docker |
+| Devops| Cloud | AWS & Docker |
 | Development | React & Next.js |
 | Engineering | System Design & Scalability |
 
