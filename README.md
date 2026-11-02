@@ -83,13 +83,7 @@ A modern web application focused on real estate messaging workflows.
 ---
 
 
-## ◈ CONTRIBUTION ACTIVITY
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvasista&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
 
 ## ◈ CURRENT FOCUS
 
