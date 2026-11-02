@@ -1,130 +1,136 @@
-# Hi, I'm Akhil Vasista 👋
-
-### Backend-Focused Full Stack Developer | Node.js | TypeScript | AWS
-
-I build scalable backend services, event-driven applications, and modern web solutions. My focus is on backend engineering, asynchronous processing, distributed systems, and cloud-integrated applications.
-
-- 💻 Currently working with **Node.js, TypeScript, React.js and Next.js**
-- ⚙️ Interested in **Microservices, Event-Driven Architecture and Distributed Systems**
-- ☁️ Hands-on experience with **AWS, Docker, Redis and Message Queues**
-- 🚀 Building reliable backend systems and exploring cloud-native technologies
-- 📍 Bengaluru, India
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Architecture**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00599C?style=flat-square&logo=icloud&logoColor=white)
-
-**Databases & Messaging**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud, DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 01. Qavach – Notification Management System
-
-A backend-focused notification microservice designed to handle multi-channel message delivery, asynchronous processing, and scheduled notifications.
-
-**Key Features**
-- Multi-channel notifications: Email, SMS, Push and In-App.
-- Asynchronous job processing using BullMQ and Redis.
-- Background workers for notification delivery.
-- Dynamic notification templates.
-- Scheduled and recurring notifications.
-- Retry handling and fallback mechanisms.
-- Real-time in-app notifications using Socket.IO.
-
-**Tech Stack:** Node.js · TypeScript · Express.js · MongoDB · Redis · BullMQ · AWS SES · AWS SNS · Docker
-
----
-
-### 02. RE Share – Real Estate Message Automation
-
-A web-based application designed to support real estate messaging workflows and automation.
-
-**Key Features**
-- Modern application architecture using Next.js.
-- MongoDB integration.
-- TypeScript-based development.
-- Responsive interface with Tailwind CSS.
-
-**Tech Stack:** Next.js · TypeScript · MongoDB · Tailwind CSS
-
----
-
-## 🧠 Areas of Interest
-
-- Backend System Design
-- Event-Driven Architecture
-- Microservices & Distributed Systems
-- Asynchronous Job Processing
-- REST API Development
-- Cloud Infrastructure & AWS
-- Performance and Reliability Engineering
-
----
-
-## 📊 GitHub Statistics
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilvasista&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilvasista&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A56,100:00B4D8&height=230&section=header&text=AKHIL%20VASISTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20CLOUD&descSize=15&descAlignY=58&animation=fadeIn" />
 </p>
+
+<h1 align="center">Building Systems. Engineering Solutions.</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilvasista&theme=github-dark-blue&hide_border=true" width="65%" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, engineering teams, and professionals working on backend engineering, cloud technologies, and scalable software systems.
-
-<p>
-  <a href="https://github.com/akhilvasista">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Node.js+%7C+TypeScript+%7C+AWS;Event-Driven+Architecture;Building+Scalable+Applications" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhilvasista&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/akhilvasista?style=for-the-badge&color=2563eb&label=FOLLOWERS" />
+</p>
+
 ---
 
+## ◈ ABOUT ME
+
+I'm **Akhil Vasista**, a Full Stack Developer based in Bengaluru, India, focused on building backend services, scalable applications and cloud-integrated solutions.
+
+I enjoy engineering systems that solve real-world problems, especially around asynchronous processing, event-driven architecture and reliable notification delivery.
+
+- ⚡ Backend-focused development with Node.js and TypeScript.
+- 🏗️ Building event-driven services and RESTful APIs.
+- ☁️ Working with AWS services and containerized applications.
+- 🔄 Exploring distributed systems and scalable architectures.
+- 🎯 Continuously improving my system design and engineering skills.
+
+---
+
+## ◈ TECHNOLOGY ECOSYSTEM
+
 <p align="center">
-  <i>"Building reliable systems, one commit at a time."</i>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,redis,rabbitmq,aws,docker,linux,git,github,postman&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Microservices-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Event--Driven-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Processing-BullMQ-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square" />
+</p>
+
+---
+
+## ◈ FEATURED ENGINEERING PROJECTS
+
+### 01 / QAVACH — NOTIFICATION MICROSERVICE
+
+A multi-channel notification platform built around asynchronous processing and reliable message delivery.
+
+**Engineering highlights**
+
+- Multi-channel delivery: Email, SMS, Push and In-App.
+- Background processing using BullMQ and Redis.
+- Notification scheduling and recurring jobs.
+- Dynamic templates and configurable delivery rules.
+- Retry handling and fallback mechanisms.
+- Real-time notifications using Socket.IO.
+
+`NODE.JS` `TYPESCRIPT` `EXPRESS` `MONGODB` `REDIS` `BULLMQ` `AWS SES` `DOCKER`
+
+---
+
+### 02 / RE SHARE — REAL ESTATE AUTOMATION
+
+A modern web application focused on real estate messaging workflows.
+
+**Engineering highlights**
+
+- Next.js application architecture.
+- TypeScript-based development.
+- MongoDB data integration.
+- Responsive UI with Tailwind CSS.
+
+`NEXT.JS` `TYPESCRIPT` `MONGODB` `TAILWIND CSS`
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilvasista&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilvasista&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=akhilvasista&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+</p>
+
+---
+
+## ◈ CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvasista&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## ◈ CURRENT FOCUS
+
+| Area | Focus |
+|:---|:---|
+| Backend | Node.js & TypeScript |
+| Architecture | Microservices & Event-Driven Systems |
+| Messaging | Redis, BullMQ & RabbitMQ |
+| Cloud | AWS & Docker |
+| Development | React & Next.js |
+| Engineering | System Design & Scalability |
+
+---
+
+## ◈ CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/akhilvasista">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Engineering with curiosity. Building with purpose.</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:102A56,100:080B16&height=100&section=footer" />
 </p>
