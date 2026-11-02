@@ -12,10 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilvasista&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/akhilvasista?style=for-the-badge&color=2563eb&label=FOLLOWERS" />
-</p>
+
 
 ---
 
