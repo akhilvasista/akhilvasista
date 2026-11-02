@@ -82,18 +82,6 @@ A modern web application focused on real estate messaging workflows.
 
 ---
 
-## ◈ GITHUB ANALYTICS
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilvasista&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilvasista&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=akhilvasista&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
----
 
 ## ◈ CONTRIBUTION ACTIVITY
 
