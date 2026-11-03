@@ -287,31 +287,6 @@ flowchart TD
 
 ---
 
-<!-- 05 ANALYTICS -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:164E63&text=05%20%2F%20DEVELOPER%20ANALYTICS&fontSize=25&fontColor=67E8F9&fontAlign=50&fontAlignY=55"/>
-
-<br/>
-
-*My public GitHub activity and contribution insights.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilvasista&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=akhilvasista&theme=tokyonight&hide_border=true&background=030712&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE"/>
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilvasista&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvasista&bg_color=030712&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY"/>
-
-</div>
 
 ---
 
