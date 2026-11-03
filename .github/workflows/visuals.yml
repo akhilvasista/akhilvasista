@@ -14,12 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate 3D contribution graph
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # Step 3: Generate contribution snake
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -28,8 +34,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 4: Commit generated graphics
       - name: Commit generated graphics
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: refresh profile animations"
+          message: "chore: update profile animations"
           default_author: github_actions
