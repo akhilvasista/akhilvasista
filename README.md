@@ -1,85 +1,92 @@
 
-<!-- ===================================================== -->
-<!-- AKHIL VASISTA | NEXUS DEVELOPER PROFILE                -->
-<!-- ===================================================== -->
+<!-- ======================================================
+     NEXUS 2.0 | AKHIL VASISTA
+     FUTURISTIC ENGINEERING PROFILE
+====================================================== -->
 
 <div align="center">
 
+<!-- HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0F172A,65:312E81,100:0891B2&text=AKHIL%20VASISTA&fontSize=58&fontColor=E0F2FE&fontAlignY=38&desc=FULL%20STACK%20%7C%20BACKEND%20%7C%20CLOUD%20ENGINEERING&descSize=15&descAlignY=59&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Engineering+Event-Driven+Architectures;Developing+Modern+Full-Stack+Applications;Exploring+Cloud+%26+AI+Engineering;Turning+Complex+Ideas+Into+Software" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-BENGALURU%2C_INDIA-0F172A?style=for-the-badge&labelColor=172554&color=0891B2"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND_%26_CLOUD-0F172A?style=for-the-badge&labelColor=172554&color=7C3AED"/>
+
+<br/><br/>
+
 <a href="https://github.com/akhilvasista">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:030712,30:0B1F3A,65:312E81,100:0891B2&text=AKHIL%20VASISTA&fontSize=58&fontColor=E0F2FE&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%2F%2F%20BUILDING%20WHAT'S%20NEXT&descSize=14&descAlignY=65&animation=twinkling" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:akhil1999vasista@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-LET'S_CONNECT-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=INITIALIZING+ENGINEERING+MINDSET...;BACKEND+%2B+CLOUD+%2B+FULL+STACK;DESIGNING+EVENT-DRIVEN+SYSTEMS;BUILDING+SCALABLE+APPLICATIONS;TURNING+IDEAS+INTO+ENGINEERING." />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C%20INDIA-0B1220?style=flat-square&labelColor=172554&color=0891B2"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20CLOUD-0B1220?style=flat-square&labelColor=172554&color=8B5CF6"/>
-<img src="https://komarev.com/ghpvc/?username=akhilvasista&style=flat-square&color=0891B2&label=VISITORS"/>
-
-<br/><br/>
-
-<a href="mailto:akhil1999vasista@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://github.com/akhilvasista">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=akhilvasista&style=flat-square&color=0891B2&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
+<!-- 01 ABOUT -->
+
 <div align="center">
 
-### `01 / THE ENGINEER`
-
-**Engineering systems. Connecting ideas. Building impact.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:172554&text=01%20%2F%20THE%20ENGINEER&fontSize=26&fontColor=67E8F9&fontAlign=50&fontAlignY=55"/>
 
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### About Me
+### Hello, I'm Akhil Vasista.
 
-I'm Akhil Vasista, a Full Stack Developer based in Bengaluru, India.
+I'm a Full Stack Developer based in Bengaluru, India, with 2+ years of software development experience.
 
-I enjoy engineering backend systems, designing asynchronous workflows, building modern web applications and exploring cloud-native technologies.
+I focus on building backend services, asynchronous processing systems, scalable APIs and modern full-stack applications.
 
-My primary focus is building software that is:
+My engineering interests include:
 
-- ⚡ Scalable and performance-conscious
-- 🔄 Event-driven and asynchronous
-- 🛡️ Reliable and maintainable
-- ☁️ Cloud-ready and deployable
-- 🧩 Modular and well-architected
+- Backend architecture and microservices.
+- Event-driven and distributed systems.
+- Cloud infrastructure and deployment.
+- Modern frontend engineering.
+- AI-powered software solutions.
+
+**My philosophy:** Understand the problem. Design the system. Build it reliably.
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-### Engineering Focus
+### `developer.config`
 
 ```yaml
-identity:
+developer:
+  name: Akhil Vasista
   role: Full Stack Developer
   location: Bengaluru, India
 
-specialization:
-  - Backend Engineering
-  - Microservices
-  - Cloud Infrastructure
-  - System Integration
+engineering:
+  backend: Node.js
+  frontend: React / Next.js
+  language: JavaScript / TypeScript
+  cloud: AWS
+  infrastructure: Docker
 
-currently_exploring:
+interests:
+  - System Design
+  - Microservices
   - Distributed Systems
   - AI Engineering
-  - Cloud Automation
 
-mindset: Build. Learn. Improve.
+mindset: Continuous Learning
 ```
 
 </td>
@@ -88,96 +95,65 @@ mindset: Build. Learn. Improve.
 
 ---
 
+<!-- 02 TECH STACK -->
+
 <div align="center">
 
-### `02 / TECHNOLOGY ECOSYSTEM`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:312E81&text=02%20%2F%20TECHNOLOGY%20UNIVERSE&fontSize=25&fontColor=C4B5FD&fontAlign=50&fontAlignY=55"/>
 
-*The tools behind the engineering.*
+<br/>
 
-</div>
+*An ecosystem of tools, technologies and engineering practices.*
 
-<table>
-<tr>
-<td align="center" width="33%">
+<br/>
 
-**BACKEND ENGINEERING**
+### BACKEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts,python&theme=dark" />
 
-`REST APIs` `Microservices`
+`REST APIs` · `Microservices` · `BullMQ` · `RabbitMQ` · `Socket.IO`
 
-`BullMQ` `RabbitMQ`
+<br/>
 
-`Socket.IO`
-
-</td>
-<td align="center" width="33%">
-
-**FRONTEND ENGINEERING**
+### FRONTEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
-`React` `Next.js`
+<br/>
 
-`TypeScript` `Responsive UI`
-
-</td>
-<td align="center" width="33%">
-
-**DATA & STORAGE**
+### DATABASES & MESSAGE PROCESSING
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
 
-`MongoDB` `MySQL`
+<br/>
 
-`Redis` `Data Modeling`
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**CLOUD & INFRASTRUCTURE**
+### CLOUD & INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 
-`AWS SES` `SNS` `S3`
+<br/>
 
-`EC2` `Lambda`
+`AWS SES` · `SNS` · `S3` · `EC2` · `Lambda`
 
-</td>
-<td align="center">
+<br/>
 
-**DEVOPS & DELIVERY**
+### DEVELOPMENT & DELIVERY
 
-<img src="https://skillicons.dev/icons?i=github,githubactions,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" />
 
-`Docker` `CI/CD`
-
-`GitHub Actions`
-
-</td>
-<td align="center">
-
-**DEVELOPER TOOLKIT**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,python&theme=dark" />
-
-`Git` `Postman`
-
-`VS Code`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
+<!-- 03 PROJECTS -->
+
 <div align="center">
 
-### `03 / SELECTED ENGINEERING`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:164E63&text=03%20%2F%20ENGINEERING%20SHOWCASE&fontSize=25&fontColor=67E8F9&fontAlign=50&fontAlignY=55"/>
 
-*Selected projects demonstrating architecture, implementation and problem-solving.*
+<br/>
+
+*Selected engineering projects and practical implementations.*
 
 </div>
 
@@ -185,96 +161,141 @@ mindset: Build. Learn. Improve.
 <tr>
 <td width="50%" valign="top">
 
-<h3>01. Notification Engine</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=NOTIFICATION%20ENGINE&fontSize=22&fontColor=67E8F9&color=0:020617,100:164E63"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=EVENT-DRIVEN%20SYSTEMS&fontSize=18&fontColor=67E8F9&color=0:0F172A,100:172554"/>
+### 01. Notification Microservice
 
-**Multi-channel notification microservice**
+A configurable, event-driven notification engine supporting multi-channel communication and asynchronous delivery.
 
-A configurable asynchronous notification engine supporting multiple delivery channels and background processing.
+**Core engineering:**
 
-- Email, SMS, Push and In-App.
-- Dynamic templates and configurable rules.
+- Email, SMS, Push and In-App delivery.
+- Dynamic templates and notification rules.
 - Delayed and recurring scheduling.
 - Retry, fallback and idempotency.
-- Worker-based processing.
+- Worker-based background processing.
+- Real-time notification delivery.
 
-`NODE.JS` `TYPESCRIPT` `REDIS` `BULLMQ` `AWS`
-
-[Explore repositories →](https://github.com/akhilvasista?tab=repositories)
+**Stack:** Node.js, TypeScript, MongoDB, Redis, BullMQ, RabbitMQ, Socket.IO, AWS, FCM, MSG91, Docker.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02. Leave Management</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=LEAVE%20MANAGEMENT&fontSize=22&fontColor=C4B5FD&color=0:172554,100:312E81"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=WORKFLOW%20AUTOMATION&fontSize=18&fontColor=C4B5FD&color=0:172554,100:312E81"/>
+### 02. Leave Management System
 
-**Role-based HR management system**
+A full-stack HR workflow application designed to streamline leave management and employee attendance.
 
-A full-stack application for employee leave management, attendance and approval workflows.
+**Core engineering:**
 
-- Employee, Manager and Admin roles.
+- Employee, Manager and Super Admin roles.
 - JWT authentication and RBAC.
 - Automated leave accrual.
+- Carry-forward policy automation.
 - Attendance and Excel reports.
-- Docker and CI/CD deployment.
+- Docker and CI/CD integration.
 
-`REACT` `NODE.JS` `MONGODB` `DOCKER`
-
-[Explore repositories →](https://github.com/akhilvasista?tab=repositories)
+**Stack:** React, Node.js, Express, MongoDB, JWT, Node-Cron, ExcelJS, Docker, GitHub Actions.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. AI Hospital Agent</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=AI%20HOSPITAL%20AGENT&fontSize=22&fontColor=67E8F9&color=0:020617,100:164E63"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=AI%20%2F%20INTELLIGENT%20SYSTEMS&fontSize=17&fontColor=67E8F9&color=0:0F172A,100:164E63"/>
+### 03. AI Hospital Reception Agent
 
-**AI-powered hospital reception assistant**
+An AI-powered reception assistant designed to handle patient queries and provide context-aware appointment information.
 
-- Natural-language patient interactions.
+**Core engineering:**
+
+- Natural-language patient interaction.
 - Doctor and department discovery.
 - Appointment availability.
-- Date and time-based slot discovery.
+- Date and time-specific slot discovery.
+- Automated deployment pipeline.
 
-`PYTHON` `OPENAI API` `AI AGENTS`
-
-[Explore repositories →](https://github.com/akhilvasista?tab=repositories)
+**Stack:** Python, OpenAI API, AI Agents, CI/CD.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04. Next.js Applications</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=NEXT.JS%20APPLICATIONS&fontSize=22&fontColor=C4B5FD&color=0:172554,100:312E81"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=FULL%20STACK%20DEVELOPMENT&fontSize=17&fontColor=C4B5FD&color=0:172554,100:312E81"/>
+### 04. Web Application Engineering
 
-**Modern application development**
+Modern web application development with frontend architecture, backend integrations and database-driven workflows.
 
-Building web applications with modern frontend architecture and backend integrations.
+**Engineering focus:**
 
-- React and Next.js.
-- TypeScript.
+- Next.js application development.
+- TypeScript-based architecture.
 - MongoDB integration.
-- Responsive interfaces.
+- Responsive user interfaces.
+- API integration and application workflows.
 
-`NEXT.JS` `TYPESCRIPT` `MONGODB`
-
-[Explore repositories →](https://github.com/akhilvasista?tab=repositories)
+**Stack:** Next.js, React, TypeScript, Node.js, MongoDB.
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/akhilvasista?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
+
+<!-- 04 ARCHITECTURE -->
 
 <div align="center">
 
-### `04 / GITHUB PERFORMANCE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:312E81&text=04%20%2F%20SYSTEMS%20%26%20ARCHITECTURE&fontSize=24&fontColor=C4B5FD&fontAlign=50&fontAlignY=55"/>
 
-*An overview of my open-source development activity.*
+### How I approach backend engineering
+
+</div>
+
+```mermaid
+flowchart TD
+    A["Client / Application"] --> B["REST API Gateway"]
+    B --> C["Authentication & Validation"]
+    C --> D["Business Logic"]
+    D --> E["Database Layer"]
+    D --> F["Message Queue"]
+    F --> G["Background Workers"]
+    G --> H["External Services"]
+    H --> I["Delivery & Logging"]
+
+    style A fill:#172554,color:#fff
+    style B fill:#1e3a8a,color:#fff
+    style C fill:#312e81,color:#fff
+    style D fill:#164e63,color:#fff
+    style F fill:#155e75,color:#fff
+    style G fill:#312e81,color:#fff
+    style H fill:#1e3a8a,color:#fff
+    style I fill:#172554,color:#fff
+```
+
+*Illustrative architecture representing concepts used in my backend engineering work.*
+
+---
+
+<!-- 05 ANALYTICS -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:164E63&text=05%20%2F%20DEVELOPER%20ANALYTICS&fontSize=25&fontColor=67E8F9&fontAlign=50&fontAlignY=55"/>
+
+<br/>
+
+*My public GitHub activity and contribution insights.*
 
 <br/>
 
@@ -288,57 +309,68 @@ Building web applications with modern frontend architecture and backend integrat
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvasista&bg_color=030712&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvasista&bg_color=030712&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY"/>
 
 </div>
 
 ---
 
+<!-- 06 3D SPACE -->
+
 <div align="center">
 
-### `05 / THE 3D CONTRIBUTION SPACE`
-
-*Every contribution is another step forward.*
-
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution visualization"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:312E81&text=06%20%2F%203D%20CONTRIBUTION%20SPACE&fontSize=24&fontColor=C4B5FD&fontAlign=50&fontAlignY=55"/>
 
 <br/>
 
-<img width="100%" src="./dist/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+*Every contribution represents progress.*
+
+<br/>
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution landscape"/>
+
+<br/><br/>
+
+<img width="100%" src="./dist/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
 ---
 
+<!-- 07 CONNECT -->
+
 <div align="center">
 
-### `06 / BEYOND THE CODE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:164E63&text=07%20%2F%20LET'S%20CONNECT&fontSize=26&fontColor=67E8F9&fontAlign=50&fontAlignY=55"/>
 
-**Curiosity is the foundation of engineering.**
+<br/><br/>
 
-Currently interested in:
+### Interested in building something meaningful?
 
-`SYSTEM DESIGN` · `DISTRIBUTED SYSTEMS` · `AWS` · `AI ENGINEERING` · `DEVOPS`
-
-<br/>
-
-### OPEN TO ENGINEERING OPPORTUNITIES
-
-Backend Development · Full Stack Development · Node.js Engineering · Cloud Engineering
+I'm interested in connecting with engineering professionals, developers and teams working on impactful software products.
 
 <br/>
 
 <a href="mailto:akhil1999vasista@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+
 <a href="https://github.com/akhilvasista">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:030712&height=150&section=footer&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=BUILD+WITH+PURPOSE.;ENGINEER+WITH+PRECISION.;KEEP+EVOLVING." />
 
-<sub>Designed & engineered by Akhil Vasista · Bengaluru, India</sub>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,45:312E81,100:020617&animation=twinkling"/>
+
+<sub>Designed with engineering passion by Akhil Vasista · Bengaluru, India</sub>
 
 </div>
